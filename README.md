@@ -2,6 +2,11 @@
 
 A simulation of the Bit Error Rate (BER) for a BPSK transmitter with varying Signal to Noise Ratios (SNR) in dB
 
+## Figures
+
+![Average BER vs SNR](https://github.com/TKF05/BPSK-Avg-BER-for-varying-SNR/blob/main/AvgBERvsSNR.png)
+
+## Signal Energy
 In BPSK (Binary Phase Shift Keying), each transmitted symbol has an amplitude of either $-1$ or $+1$:
 
 $$
